@@ -1,0 +1,8 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htpb]
+    \centering
+    \includegraphics[width=\textwidth]{imgs/photomultiplier.png}
+    \caption{Schematic of a photomultiplier tube}
+    \label{fig:photomultiplier}
+\end{figure*}

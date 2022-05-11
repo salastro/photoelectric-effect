@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/salahdin/Documents/LaTeX/photo-electric-effect/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Analysis	report.tex	/^\\section{Analysis}$/;"	s
+Conclusion	report.tex	/^\\section{Conclusion}$/;"	s
+Emission mechanism	report.tex	/^\\subsection{Emission mechanism}$/;"	u	section:Introduction
+Image sensors	report.tex	/^\\subsection{Image sensors}$/;"	u	section:Analysis
+Introduction	report.tex	/^\\section{Introduction}$/;"	s
+Moon dust	report.tex	/^\\subsection{Moon dust}$/;"	u	section:Analysis
+Photocell	report.tex	/^\\subsection{Photocell}$/;"	u	section:Analysis
+Photomultipliers	report.tex	/^\\subsection{Photomultipliers}$/;"	u	section:Analysis
+Spacecraft	report.tex	/^\\subsection{Spacecraft}$/;"	u	section:Analysis
+Theoretical explanation	report.tex	/^\\subsection{Theoretical explanation}$/;"	u	section:Introduction
+camera	report.bib	/^@article{camera,$/;"	a
+craft	report.bib	/^@book{craft,$/;"	b
+fig:photocell	report.tex	/^    \\label{fig:photocell}$/;"	l
+fig:photoelectric	report.tex	/^    \\label{fig:photoelectric}$/;"	l
+fig:photomultiplier	report.tex	/^    \\label{fig:photomultiplier}$/;"	l
+fountain	report.bib	/^@article{fountain,$/;"	a
+lunar	report.bib	/^@InProceedings{lunar,$/;"	j
+night	report.bib	/^@misc{night,$/;"	n
+physics	report.bib	/^@book{physics,$/;"	b
+quantum	report.bib	/^@book{quantum,$/;"	b
+space	report.bib	/^@book{space,$/;"	b
+tele	report.bib	/^@book{tele,$/;"	b
